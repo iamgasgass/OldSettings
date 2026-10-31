@@ -1,0 +1,11 @@
+OldSettings is derived from The OldOS Project by Zane Kleinberg (@zzanehip),
+licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+https://creativecommons.org/licenses/by/4.0/
+Original project: https://github.com/zzanehip/The-OldOS-Project
+
+Changes made for OldSettings (standalone app, saved values, working device
+features, full-screen adaptation) are described in README.md and EXTRACTION.json.
+
+Bundled resources from The OldOS Project: the Settings artwork, the 27 wallpapers
+(re-encoded as JPEG) and the app icon (Homescreen Icons/Settings, upscaled,
+Dark/Tinted derived). The ringtone previews are the original synthesised tones of OldClock.
